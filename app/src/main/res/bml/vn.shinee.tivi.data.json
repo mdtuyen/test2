@@ -1,0 +1,1501 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 1,
+      "title": "Kênh VTV",
+      "visible": 1,
+      "chanels": [
+        {
+          "id": 1,
+          "chanel_category_id": 1,
+          "title": "VTV1",
+          "desc": "",
+          "image": "https://s19.postimg.org/3v98y87w3/vtv1.png",
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv1.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv1-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/vtv1-3.php"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "chanel_category_id": 1,
+          "title": "VTV1HD",
+          "desc": "",
+          "image": "https://s19.postimg.org/go1ybw8vn/vtv1hd.png",
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv1hd.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv1hd-3.php"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "chanel_category_id": 1,
+          "title": "VTV2",
+          "desc": "",
+          "image": "https://s19.postimg.org/fn1pmrrw3/vtv2.png",
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv2.php"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 1,
+          "title": "VTV3",
+          "desc": "",
+          "image": "https://s19.postimg.org/6tat5o4xf/vtv3.png",
+          "url": []
+        },
+        {
+          "id": 5,
+          "chanel_category_id": 1,
+          "title": "VTV3HD",
+          "desc": "",
+          "image": "https://s19.postimg.org/5fj6ad5o3/vtv3hd.png",
+          "url": []
+        },
+        {
+          "id": 6,
+          "chanel_category_id": 1,
+          "title": "VTV4",
+          "desc": "",
+          "image": "https://s19.postimg.org/tkjvs2pyr/vtv4.png",
+          "url": []
+        },
+        {
+          "id": 7,
+          "chanel_category_id": 1,
+          "title": "VTV5",
+          "desc": "",
+          "image": "https://s19.postimg.org/on6b6ynzn/vtv5.png",
+          "url": []
+        },
+        {
+          "id": 8,
+          "chanel_category_id": 1,
+          "title": "VTV6",
+          "desc": "",
+          "image": "https://s19.postimg.org/p17n6k837/vtv6.png",
+          "url": []
+        },
+        {
+          "id": 9,
+          "chanel_category_id": 1,
+          "title": "VTV6HD",
+          "desc": "",
+          "image": "https://s19.postimg.org/gwzj1tlo3/vtv6hd.png",
+          "url": []
+        },
+        {
+          "id": 10,
+          "chanel_category_id": 1,
+          "title": "VTV7",
+          "desc": "",
+          "image": "https://s19.postimg.org/u2f17xfjn/vtv7.png",
+          "url": []
+        },
+        {
+          "id": 11,
+          "chanel_category_id": 1,
+          "title": "VTV8",
+          "desc": "",
+          "image": "https://s19.postimg.org/8u1cqi12r/vtv8.png",
+          "url": []
+        },
+        {
+          "id": 12,
+          "chanel_category_id": 1,
+          "title": "VTV9",
+          "desc": "",
+          "image": "https://s19.postimg.org/i384eczcj/vtv9.png",
+          "url": []
+        },
+        {
+          "id": 13,
+          "chanel_category_id": 1,
+          "title": "VTV Cần Thơ",
+          "desc": "",
+          "image": "https://s19.postimg.org/jc0ldqgoj/vtvcantho1.png",
+          "url": []
+        },
+        {
+          "id": 14,
+          "chanel_category_id": 1,
+          "title": "VTV Cần Thơ 2",
+          "desc": "",
+          "image": "https://s19.postimg.org/6lwd0n8qb/vtvcantho2.png",
+          "url": []
+        },
+        {
+          "id": 15,
+          "chanel_category_id": 1,
+          "title": "VTV Phú Yên",
+          "desc": "",
+          "image": "https://s19.postimg.org/d0vdxbfg3/vtvphuyen.png",
+          "url": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kênh VTC",
+      "visible": 1,
+      "chanels": [
+        {
+          "id": 1,
+          "chanel_category_id": 2,
+          "title": "VTC1",
+          "desc": "",
+          "image": "https://s19.postimg.org/97thym6er/vtc1.png",
+          "url": []
+        },
+        {
+          "id": 2,
+          "chanel_category_id": 2,
+          "title": "VTC2",
+          "desc": "",
+          "image": "https://s19.postimg.org/fo2gopeyb/vtc2.png",
+          "url": []
+        },
+        {
+          "id": 3,
+          "chanel_category_id": 2,
+          "title": "VTC3",
+          "desc": "",
+          "image": "https://s19.postimg.org/53sj64agj/vtc3.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 2,
+          "title": "VTC4",
+          "desc": "",
+          "image": "https://s19.postimg.org/69wj4wyr7/vtc4.png",
+          "url": []
+        },
+        {
+          "id": 5,
+          "chanel_category_id": 2,
+          "title": "VTC5",
+          "desc": "",
+          "image": "https://s19.postimg.org/b9tzcv4dv/vtc5.png",
+          "url": []
+        },
+        {
+          "id": 6,
+          "chanel_category_id": 2,
+          "title": "VTC6",
+          "desc": "",
+          "image": "https://s19.postimg.org/wxixnb4s3/vtc6.png",
+          "url": []
+        },
+        {
+          "id": 7,
+          "chanel_category_id": 2,
+          "title": "VTC7",
+          "desc": "",
+          "image": "https://s19.postimg.org/mov1v8643/vtc7.png",
+          "url": []
+        },
+        {
+          "id": 8,
+          "chanel_category_id": 2,
+          "title": "VTC8",
+          "desc": "",
+          "image": "https://s19.postimg.org/74no4ovzn/vtc8.png",
+          "url": []
+        },
+        {
+          "id": 9,
+          "chanel_category_id": 2,
+          "title": "VTC9",
+          "desc": "",
+          "image": "https://s19.postimg.org/vz75yrgtv/vtc9.png",
+          "url": []
+        },
+        {
+          "id": 10,
+          "chanel_category_id": 2,
+          "title": "VTC10",
+          "desc": "",
+          "image": "https://s19.postimg.org/9brwsm19v/vtc10.png",
+          "url": []
+        },
+        {
+          "id": 11,
+          "chanel_category_id": 2,
+          "title": "VTC11",
+          "desc": "",
+          "image": "https://s19.postimg.org/w1r1llkhf/vtc11.png",
+          "url": []
+        },
+        {
+          "id": 12,
+          "chanel_category_id": 2,
+          "title": "VTC12",
+          "desc": "",
+          "image": "https://s19.postimg.org/a3ukrt5gz/vtc12.png",
+          "url": []
+        },
+        {
+          "id": 13,
+          "chanel_category_id": 2,
+          "title": "VTC13",
+          "desc": "",
+          "image": "https://s19.postimg.org/tzqk7cmib/vtc13.png",
+          "url": []
+        },
+        {
+          "id": 14,
+          "chanel_category_id": 2,
+          "title": "VTC14",
+          "desc": "",
+          "image": "https://s19.postimg.org/ocu79vjzn/vtc14.png",
+          "url": []
+        },
+        {
+          "id": 15,
+          "chanel_category_id": 2,
+          "title": "VTC3HD",
+          "desc": "",
+          "image": "https://s19.postimg.org/e1d93h2wj/vtc-3hd.png",
+          "url": []
+        },
+        {
+          "id": 16,
+          "chanel_category_id": 2,
+          "title": "VTC16",
+          "desc": "",
+          "image": "https://s19.postimg.org/etkigewhf/vtc16.png",
+          "url": []
+        },
+        {
+          "id": 17,
+          "chanel_category_id": 2,
+          "title": "VTC HD1",
+          "desc": "",
+          "image": "https://s19.postimg.org/z4n6b8a2b/vtc1hd.png",
+          "url": []
+        },
+        {
+          "id": 18,
+          "chanel_category_id": 2,
+          "title": "VTC HD2",
+          "desc": "",
+          "image": "https://s19.postimg.org/p9w150643/vtc2hd.png",
+          "url": []
+        },
+        {
+          "id": 19,
+          "chanel_category_id": 2,
+          "title": "VTC HD3",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-4QTtl-3MYrM/VixvgFWkzYI/AAAAAAAAAsc/PiLsOxEv2HU/s128-Ic42/vtc3hd.png",
+          "url": []
+        },
+        {
+          "id": 20,
+          "chanel_category_id": 2,
+          "title": "ITV HD",
+          "desc": "",
+          "image": "https://s19.postimg.org/ini3jxm9f/itvhd.png",
+          "url": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kênh SCTV",
+      "visible": 1,
+      "chanels": [
+        {
+          "id": 1,
+          "chanel_category_id": 3,
+          "title": "SCTV1",
+          "desc": "",
+          "image": "https://s19.postimg.org/ec7a05jhv/sctv1.png",
+          "url": []
+        },
+        {
+          "id": 2,
+          "chanel_category_id": 3,
+          "title": "SCTV2",
+          "desc": "",
+          "image": "https://s19.postimg.org/jow4ea7eb/sctv2.png",
+          "url": []
+        },
+        {
+          "id": 3,
+          "chanel_category_id": 3,
+          "title": "SCTV3",
+          "desc": "",
+          "image": "https://s19.postimg.org/hllp6m7lf/sctv3.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 3,
+          "title": "SCTV4",
+          "desc": "",
+          "image": "https://s19.postimg.org/hzn167roz/sctv4.png",
+          "url": []
+        },
+        {
+          "id": 5,
+          "chanel_category_id": 3,
+          "title": "SCTV5",
+          "desc": "",
+          "image": "https://s19.postimg.org/td9khf27n/sctv5.png",
+          "url": []
+        },
+        {
+          "id": 6,
+          "chanel_category_id": 3,
+          "title": "SCTV6",
+          "desc": "",
+          "image": "https://s19.postimg.org/rzhxm42yb/sctv6.png",
+          "url": []
+        },
+        {
+          "id": 7,
+          "chanel_category_id": 3,
+          "title": "SCTV7",
+          "desc": "",
+          "image": "https://s19.postimg.org/6ehgc8vlf/sctv7.png",
+          "url": []
+        },
+        {
+          "id": 8,
+          "chanel_category_id": 3,
+          "title": "SCTV8",
+          "desc": "",
+          "image": "https://s19.postimg.org/hfclh9nub/sctv8.png",
+          "url": []
+        },
+        {
+          "id": 9,
+          "chanel_category_id": 3,
+          "title": "SCTV9",
+          "desc": "",
+          "image": "https://s19.postimg.org/t5qiyngmr/sctv9.png",
+          "url": []
+        },
+        {
+          "id": 10,
+          "chanel_category_id": 3,
+          "title": "SCTV10",
+          "desc": "",
+          "image": "https://s19.postimg.org/hunvaa9rn/sctv10.png",
+          "url": []
+        },
+        {
+          "id": 11,
+          "chanel_category_id": 3,
+          "title": "SCTV11",
+          "desc": "",
+          "image": "https://s19.postimg.org/4rs8r0jjn/sctv11.png",
+          "url": []
+        },
+        {
+          "id": 12,
+          "chanel_category_id": 3,
+          "title": "SCTV12",
+          "desc": "",
+          "image": "https://s19.postimg.org/683r95mgj/sctv12.png",
+          "url": []
+        },
+        {
+          "id": 13,
+          "chanel_category_id": 3,
+          "title": "SCTV13",
+          "desc": "",
+          "image": "https://s19.postimg.org/4uc4dun77/sctv13.png",
+          "url": []
+        },
+        {
+          "id": 14,
+          "chanel_category_id": 3,
+          "title": "SCTV14",
+          "desc": "",
+          "image": "https://s19.postimg.org/cocpz8v03/sctv14.png",
+          "url": []
+        },
+        {
+          "id": 15,
+          "chanel_category_id": 3,
+          "title": "SCTV15",
+          "desc": "",
+          "image": "https://s19.postimg.org/t0mroz9bn/sctv15.png",
+          "url": []
+        },
+        {
+          "id": 16,
+          "chanel_category_id": 3,
+          "title": "SCTV16",
+          "desc": "",
+          "image": "https://s19.postimg.org/850hdqd4j/sctv16.png",
+          "url": []
+        },
+        {
+          "id": 17,
+          "chanel_category_id": 3,
+          "title": "SCTV17",
+          "desc": "",
+          "image": "https://s19.postimg.org/jirm2od0z/sctv17.png",
+          "url": []
+        },
+        {
+          "id": 18,
+          "chanel_category_id": 3,
+          "title": "SCTVHD-The thao",
+          "desc": "",
+          "image": "https://s19.postimg.org/ey5fnqtbn/sctv18.png",
+          "url": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Kênh HTV",
+      "visible": 1,
+      "chanels": [
+        {
+          "id": 1,
+          "chanel_category_id": 4,
+          "title": "HTV1",
+          "desc": "",
+          "image": "https://s19.postimg.org/hl3bnne2b/htv1.png",
+          "url": []
+        },
+        {
+          "id": 2,
+          "chanel_category_id": 4,
+          "title": "HTV2",
+          "desc": "",
+          "image": "https://s19.postimg.org/rwfogb5rn/htv2.png",
+          "url": []
+        },
+        {
+          "id": 3,
+          "chanel_category_id": 4,
+          "title": "HTV3",
+          "desc": "",
+          "image": "https://s19.postimg.org/havt4azg3/htv3.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 4,
+          "title": "HTV4",
+          "desc": "",
+          "image": "https://s19.postimg.org/ryzk359f7/htv4.png",
+          "url": []
+        },
+        {
+          "id": 5,
+          "chanel_category_id": 4,
+          "title": "HTV7",
+          "desc": "",
+          "image": "https://s19.postimg.org/w9itch3w3/htv7.png",
+          "url": []
+        },
+        {
+          "id": 6,
+          "chanel_category_id": 4,
+          "title": "HTV7HD",
+          "desc": "",
+          "image": "https://s19.postimg.org/6f90mp3w3/htv7hd.png",
+          "url": []
+        },
+        {
+          "id": 7,
+          "chanel_category_id": 4,
+          "title": "HTV9",
+          "desc": "",
+          "image": "https://s19.postimg.org/ssgr9i4tv/htv9.png",
+          "url": []
+        },
+        {
+          "id": 8,
+          "chanel_category_id": 4,
+          "title": "HTV9HD",
+          "desc": "",
+          "image": "https://s19.postimg.org/cvhzcscfn/htv9hd.png",
+          "url": []
+        },
+        {
+          "id": 9,
+          "chanel_category_id": 4,
+          "title": "HTV The thao",
+          "desc": "",
+          "image": "https://s19.postimg.org/r37o1fp4j/htvthethao.png",
+          "url": []
+        },
+        {
+          "id": 10,
+          "chanel_category_id": 4,
+          "title": "HTV Ca nhac",
+          "desc": "",
+          "image": "https://s19.postimg.org/sfyjut1bn/nhac.png",
+          "url": []
+        },
+        {
+          "id": 11,
+          "chanel_category_id": 4,
+          "title": "HTV Phim truyen",
+          "desc": "",
+          "image": "https://s19.postimg.org/3rsr3tpmb/phim.png",
+          "url": []
+        },
+        {
+          "id": 12,
+          "chanel_category_id": 4,
+          "title": "HTV Phim truyen HD",
+          "desc": "",
+          "image": "https://s19.postimg.org/v3o055ucz/phimhd.png",
+          "url": []
+        },
+        {
+          "id": 13,
+          "chanel_category_id": 4,
+          "title": "HTV Phu nu",
+          "desc": "",
+          "image": "https://s19.postimg.org/eh6fw31f7/phunu.png",
+          "url": []
+        },
+        {
+          "id": 14,
+          "chanel_category_id": 4,
+          "title": "HTV Thuan Viet",
+          "desc": "",
+          "image": "https://s19.postimg.org/nukt5f9bn/thuanviethd.png",
+          "url": []
+        },
+        {
+          "id": 15,
+          "chanel_category_id": 4,
+          "title": "HTV Du lich",
+          "desc": "",
+          "image": "https://s19.postimg.org/hbwltrz03/dulich.png",
+          "url": []
+        },
+        {
+          "id": 16,
+          "chanel_category_id": 4,
+          "title": "HTV Gia dinh",
+          "desc": "",
+          "image": "https://s19.postimg.org/67c6ype5v/giadinh.png",
+          "url": []
+        },
+        {
+          "id": 17,
+          "chanel_category_id": 4,
+          "title": "MTV Viet",
+          "desc": "",
+          "image": "https://s19.postimg.org/46zfj3m5v/mtvviet.png",
+          "url": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Kênh VTVCab",
+      "visible": 1,
+      "chanels": [
+        {
+          "id": 1,
+          "chanel_category_id": 5,
+          "title": "VTVCab1-Giai tri Viet",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-WS3WoSvMqS4/VpyiiN95hRI/AAAAAAAAB-o/dKkLfIDOq34/s128-Ic42/vtvcab1.png",
+          "url": []
+        },
+        {
+          "id": 2,
+          "chanel_category_id": 5,
+          "title": "VTVCab2-Phim Viet",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-R0R-gKFogWo/VpyijNgLBAI/AAAAAAAAB-4/XFNqhqsHNA4/s128-Ic42/vtvcab2.png",
+          "url": []
+        },
+        {
+          "id": 3,
+          "chanel_category_id": 5,
+          "title": "VTVCab3-Thể thao TV",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-5PwTm_f3sAc/VpyijWp6DvI/AAAAAAAACBY/_uHdJK7nrlc/s128-Ic42/vtvcab3.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 5,
+          "title": "VTVCab4",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-K5upzHXjLFQ/VpyijREyfXI/AAAAAAAAB_M/pGrAbtIrR9Y/s128-Ic42/vtvcab4.png",
+          "url": []
+        },
+        {
+          "id": 5,
+          "chanel_category_id": 5,
+          "title": "VTVCab5 E-Chanel",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-OdFIS9_rcfY/Vpyij0813_I/AAAAAAAACBc/pgdEX-fP4JE/s128-Ic42/vtvcab5.png",
+          "url": []
+        },
+        {
+          "id": 6,
+          "chanel_category_id": 5,
+          "title": "VTVCab6",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-o1PrOv_5t50/Vpyij41mLBI/AAAAAAAACBg/-qKxyD4OdF0/s128-Ic42/vtvcab6.png",
+          "url": []
+        },
+        {
+          "id": 7,
+          "chanel_category_id": 5,
+          "title": "VTVCab7-Dramas",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-Ii1S8W0S4fQ/VpyikKn2zKI/AAAAAAAAB_c/_G7Yz0DU2vI/s128-Ic42/vtvcab7.png",
+          "url": []
+        },
+        {
+          "id": 8,
+          "chanel_category_id": 5,
+          "title": "VTVCab8-Bibi",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-qKYa9-08d3k/VpyikPDboxI/AAAAAAAACAU/5ax4M9T_8Dg/s128-Ic42/vtvcab8.png",
+          "url": []
+        },
+        {
+          "id": 9,
+          "chanel_category_id": 5,
+          "title": "VTVCab9-HayTV",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-5_y8y1dqC94/VpyikUirclI/AAAAAAAAB_o/SulM3_v5P9Y/s128-Ic42/vtvcab9.png",
+          "url": []
+        },
+        {
+          "id": 10,
+          "chanel_category_id": 5,
+          "title": "VTVCab10-O2TV",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-mfiCF9-B_RA/VpyiiaA8aJI/AAAAAAAAB-g/bVjvh2P_g90/s128-Ic42/vtvcab10.png",
+          "url": []
+        },
+        {
+          "id": 12,
+          "chanel_category_id": 5,
+          "title": "VTVCab12-Style",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-3sWLPllPBsg/VpyiiorD_BI/AAAAAAAACBU/PptcSeCKRXI/s128-Ic42/vtvcab12.png",
+          "url": []
+        },
+        {
+          "id": 15,
+          "chanel_category_id": 5,
+          "title": "VTVCab15",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-wyrZX3MzkvU/VpyiiimhdqI/AAAAAAAACBQ/BMJTJ1H0948/s128-Ic42/vtvcab15.png",
+          "url": []
+        },
+        {
+          "id": 16,
+          "chanel_category_id": 6,
+          "title": "VTVCab16",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-m-tn3qGFzNg/Vpyii7KhHcI/AAAAAAAAB_s/83GCvXJtH_w/s128-Ic42/vtvcab16.png",
+          "url": []
+        },
+        {
+          "id": 20,
+          "chanel_category_id": 5,
+          "title": "VTVCab20",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-bxzx_jXiHgI/VpyijEgJIFI/AAAAAAAAB_A/Ha5sxhtYR8M/s128-Ic42/vtvcab20.png",
+          "url": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Kênh K+",
+      "visible": 1,
+      "chanels": [
+        {
+          "id": 1,
+          "chanel_category_id": 7,
+          "title": "K+1",
+          "desc": "",
+          "image": "https://s19.postimg.org/aoic2lwj7/kplus.png",
+          "url": []
+        },
+        {
+          "id": 2,
+          "chanel_category_id": 7,
+          "title": "K+PM",
+          "desc": "",
+          "image": "https://s19.postimg.org/ygrne4yk3/kpm.png",
+          "url": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Kênh Quốc Tế",
+      "visible": 1,
+      "chanels": [
+        {
+          "id": 1,
+          "chanel_category_id": 6,
+          "title": "HBO",
+          "desc": "",
+          "image": "https://s19.postimg.org/9d1e2nm5v/hbo1.png",
+          "url": []
+        },
+        {
+          "id": 2,
+          "chanel_category_id": 6,
+          "title": "Disney",
+          "desc": "",
+          "image": "https://s19.postimg.org/dzyb0h78z/disney.png",
+          "url": []
+        },
+        {
+          "id": 3,
+          "chanel_category_id": 6,
+          "title": "StarWorld",
+          "desc": "",
+          "image": "https://s19.postimg.org/e5pg2p1wz/worldhd.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 6,
+          "title": "Fashion",
+          "desc": "",
+          "image": "https://s19.postimg.org/407yas8vn/fashion.png",
+          "url": []
+        },
+        {
+          "id": 5,
+          "chanel_category_id": 6,
+          "title": "Cartoon",
+          "desc": "",
+          "image": "https://s19.postimg.org/60yhvm50z/car-toon.png",
+          "url": []
+        },
+        {
+          "id": 6,
+          "chanel_category_id": 6,
+          "title": "Fox Sports",
+          "desc": "",
+          "image": "https://s19.postimg.org/4e9aadsz7/fox.png",
+          "url": []
+        },
+        {
+          "id": 7,
+          "chanel_category_id": 6,
+          "title": "Fox Sports 2",
+          "desc": "",
+          "image": "https://s19.postimg.org/p0k7qh88j/star-sport.png",
+          "url": []
+        },
+        {
+          "id": 8,
+          "chanel_category_id": 6,
+          "title": "Star Movies",
+          "desc": "",
+          "image": "https://s19.postimg.org/5hfmh49gz/starmovieshd.png",
+          "url": []
+        },
+        {
+          "id": 9,
+          "chanel_category_id": 6,
+          "title": "Animal Planet",
+          "desc": "",
+          "image": "https://s19.postimg.org/m7v50tgc3/animalplanet.png",
+          "url": []
+        },
+        {
+          "id": 10,
+          "chanel_category_id": 6,
+          "title": "NATGEO Truc tuyen",
+          "desc": "",
+          "image": "https://s19.postimg.org/lyb1xk1kj/nageohd.png",
+          "url": []
+        },
+        {
+          "id": 11,
+          "chanel_category_id": 6,
+          "title": "V-Chanel",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-ySZOwdCRSYE/VixvXoVa5YI/AAAAAAAAAy0/PL9Kw5BBCYI/s128-Ic42/vchannel.png",
+          "url": []
+        },
+        {
+          "id": 12,
+          "chanel_category_id": 6,
+          "title": "AXN HD",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-jdqBXb5T4eg/VixugsjpWbI/AAAAAAAAAzM/JbEnvSPJ7SY/s128-Ic42/axn.png",
+          "url": []
+        },
+        {
+          "id": 13,
+          "chanel_category_id": 6,
+          "title": "Discovery",
+          "desc": "",
+          "image": "https://lh3.googleusercontent.com/-gT-A3dTfYdc/VixusUgJpQI/AAAAAAAAAzE/7C9VhBDGe4o/s128-Ic42/discovery.png",
+          "url": []
+        },
+        {
+          "id": 14,
+          "chanel_category_id": 6,
+          "title": "Cinemax",
+          "desc": "",
+          "image": "https://s19.postimg.org/j7nxv50qb/cinemax.png",
+          "url": []
+        }
+      ]
+    },   {
+      "id": 7,
+      "title": "Kênh Tổng hợp",
+      "visible": 1,
+      "chanels": [
+        {
+          "id": 1,
+          "chanel_category_id": 7,
+          "title": "An Ninh TV",
+          "desc": "",
+          "image": "https://s19.postimg.org/6senhh78z/anninh.png",
+          "url": []
+        },
+        {
+          "id": 2,
+          "chanel_category_id": 7,
+          "title": "Quốc phòng VN",
+          "desc": "",
+          "image": "https://s19.postimg.org/4qe63899v/qpvn.png",
+          "url": []
+        },
+        {
+          "id": 3,
+          "chanel_category_id": 7,
+          "title": "FBNC",
+          "desc": "",
+          "image": "https://s19.postimg.org/fopflexv7/fbnc.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 7,
+          "title": "TTXVN",
+          "desc": "",
+          "image": "https://s19.postimg.org/6jh2rjugj/ttxvn.png",
+          "url": []
+        },
+        {
+          "id": 5,
+          "chanel_category_id": 7,
+          "title": "NCT",
+          "desc": "",
+          "image": "https://s19.postimg.org/faj1op7g3/nct.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 7,
+          "title": "TTXVN",
+          "desc": "",
+          "image": "https://s19.postimg.org/6jh2rjugj/ttxvn.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 7,
+          "title": "TTXVN",
+          "desc": "",
+          "image": "https://s19.postimg.org/6jh2rjugj/ttxvn.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 7,
+          "title": "TTXVN",
+          "desc": "",
+          "image": "https://s19.postimg.org/6jh2rjugj/ttxvn.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 7,
+          "title": "TTXVN",
+          "desc": "",
+          "image": "https://s19.postimg.org/6jh2rjugj/ttxvn.png",
+          "url": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Kênh Địa phương",
+      "visible": 1,
+      "chanels": [
+        {
+          "id": 1,
+          "chanel_category_id": 8,
+          "title": "Hanoi 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/s09hwkb8z/hanoi1.png",
+          "url": []
+        },
+        {
+          "id": 2,
+          "chanel_category_id": 8,
+          "title": "Hanoi 2",
+          "desc": "",
+          "image": "https://s19.postimg.org/fa59jh3ar/hanoi2.png",
+          "url": []
+        },
+        {
+          "id": 3,
+          "chanel_category_id": 8,
+          "title": "Bình Định",
+          "desc": "",
+          "image": "https://s19.postimg.org/bes861ofn/binhdinh.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 8,
+          "title": "Binh Thuan",
+          "desc": "",
+          "image": "https://s19.postimg.org/5o21sbgfn/binhthuan.png",
+          "url": []
+        },
+        {
+          "id": 5,
+          "chanel_category_id": 8,
+          "title": "Binh Phuoc 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/r7x6mibcj/binhphuoc1.png",
+          "url": []
+        },
+        {
+          "id": 6,
+          "chanel_category_id": 8,
+          "title": "Binh Phuoc 2",
+          "desc": "",
+          "image": "https://lh5.googleusercontent.com/-5xUjuwiCqTg/U4iHtVhjx-I/AAAAAAAAAug/C5ID-yj9JSU/s80/binhphuoc2-taibl89.gif",
+          "url": []
+        },
+        {
+          "id": 7,
+          "chanel_category_id": 8,
+          "title": "Ca Mau",
+          "desc": "",
+          "image": "https://s19.postimg.org/9ylrl0rub/caumau.png",
+          "url": []
+        },
+        {
+          "id": 8,
+          "chanel_category_id": 8,
+          "title": "Dac Lac",
+          "desc": "",
+          "image": "https://s19.postimg.org/ydkui4ohf/daclac.png",
+          "url": []
+        },
+        {
+          "id": 9,
+          "chanel_category_id": 8,
+          "title": "Dac Nong",
+          "desc": "",
+          "image": "https://s19.postimg.org/klb108n3n/daknong.png",
+          "url": []
+        },
+        {
+          "id": 10,
+          "chanel_category_id": 8,
+          "title": "Đồng Tháp",
+          "desc": "",
+          "image": "https://s19.postimg.org/5ya2ikohf/dongthap.png",
+          "url": []
+        },
+        {
+          "id": 11,
+          "chanel_category_id": 8,
+          "title": "Đà Nẵng 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/3ytgr5u5v/danang1.png",
+          "url": []
+        },
+        {
+          "id": 12,
+          "chanel_category_id": 8,
+          "title": "Đà Nẵng 2",
+          "desc": "",
+          "image": "https://s19.postimg.org/sglkf1wqb/danang2.png",
+          "url": []
+        },
+        {
+          "id": 13,
+          "chanel_category_id": 8,
+          "title": "Đồng Nai 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/fg9tima5v/dongnai1.png",
+          "url": []
+        },
+        {
+          "id": 14,
+          "chanel_category_id": 8,
+          "title": "Đồng Nai 2",
+          "desc": "",
+          "image": "https://s19.postimg.org/d0804rs37/dongnai2.png",
+          "url": []
+        },
+        {
+          "id": 15,
+          "chanel_category_id": 8,
+          "title": "Gia Lai",
+          "desc": "",
+          "image": "https://s19.postimg.org/xj7g01iwj/gialai.png",
+          "url": []
+        },
+        {
+          "id": 16,
+          "chanel_category_id": 8,
+          "title": "Ha Nam",
+          "desc": "",
+          "image": "https://s19.postimg.org/fk86p2sj7/hanam.png",
+          "url": []
+        },
+        {
+          "id": 17,
+          "chanel_category_id": 8,
+          "title": "Hà Giang",
+          "desc": "",
+          "image": "https://s19.postimg.org/udmu9u0ab/hagiang.png",
+          "url": []
+        },
+        {
+          "id": 18,
+          "chanel_category_id": 8,
+          "title": "Hà Tĩnh",
+          "desc": "",
+          "image": "https://s19.postimg.org/3z2lv3wfn/hatinh.png",
+          "url": []
+        },
+        {
+          "id": 19,
+          "chanel_category_id": 8,
+          "title": "Hải Phòng",
+          "desc": "",
+          "image": "https://s19.postimg.org/ax24nb56b/haiphong.png",
+          "url": []
+        },
+        {
+          "id": 20,
+          "chanel_category_id": 8,
+          "title": "Hậu Giang",
+          "desc": "",
+          "image": "https://s19.postimg.org/5fe4d8zcj/haugiang.png",
+          "url": []
+        },
+        {
+          "id": 21,
+          "chanel_category_id": 8,
+          "title": "Khánh Hoà",
+          "desc": "",
+          "image": "https://s19.postimg.org/efnbb6ktv/khanhhoa.png",
+          "url": []
+        },
+        {
+          "id": 22,
+          "chanel_category_id": 8,
+          "title": "Kon Tum",
+          "desc": "",
+          "image": "http://kontumtv.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png",
+          "url": []
+        },
+        {
+          "id": 23,
+          "chanel_category_id": 8,
+          "title": "Vĩnh Long 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/rzvprc73n/vinhlong1.png",
+          "url": []
+        },
+        {
+          "id": 24,
+          "chanel_category_id": 8,
+          "title": "Hanoi 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/s09hwkb8z/hanoi1.png",
+          "url": []
+        },
+        {
+          "id": 25,
+          "chanel_category_id": 8,
+          "title": "Vĩnh Long 2",
+          "desc": "",
+          "image": "https://s19.postimg.org/yrqq7xlgz/vinhlong2.png",
+          "url": []
+        },
+        {
+          "id": 26,
+          "chanel_category_id": 8,
+          "title": "Hoà Bình",
+          "desc": "",
+          "image": "https://s19.postimg.org/c8eh9iq5v/hoabinh.png",
+          "url": []
+        },
+        {
+          "id": 27,
+          "chanel_category_id": 8,
+          "title": "Huế",
+          "desc": "",
+          "image": "https://s19.postimg.org/f2m80phpv/hue.png",
+          "url": []
+        },
+        {
+          "id": 28,
+          "chanel_category_id": 8,
+          "title": "Kiên Giang 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/nby3f4bg3/kiengiang.png",
+          "url": []
+        },
+        {
+          "id": 29,
+          "chanel_category_id": 8,
+          "title": "Kiên Giang 2",
+          "desc": "",
+          "image": "https://s19.postimg.org/84i3urjlf/kiengiang1.png",
+          "url": []
+        },
+        {
+          "id": 30,
+          "chanel_category_id": 8,
+          "title": "Lâm Đồng",
+          "desc": "",
+          "image": "https://s19.postimg.org/ulo9bkfeb/lamdong.png",
+          "url": []
+        },
+        {
+          "id": 31,
+          "chanel_category_id": 8,
+          "title": "Lạng Sơn",
+          "desc": "",
+          "image": "https://s19.postimg.org/z8ubdc2r7/langson.png",
+          "url": []
+        },
+        {
+          "id": 32,
+          "chanel_category_id": 8,
+          "title": "Lào Cai",
+          "desc": "",
+          "image": "https://s19.postimg.org/lgfwhpbzn/laocai.png",
+          "url": []
+        },
+        {
+          "id": 33,
+          "chanel_category_id": 8,
+          "title": "Long An",
+          "desc": "",
+          "image": "https://s19.postimg.org/ic58kwv77/longan.png",
+          "url": []
+        },
+        {
+          "id": 34,
+          "chanel_category_id": 8,
+          "title": "Ninh Thuận",
+          "desc": "",
+          "image": "https://s19.postimg.org/54ag5pn1v/ninhthuan.png",
+          "url": []
+        },
+        {
+          "id": 35,
+          "chanel_category_id": 8,
+          "title": "Phú Thọ",
+          "desc": "",
+          "image": "https://s19.postimg.org/jtvaa7pbn/phutho.png",
+          "url": []
+        },
+        {
+          "id": 36,
+          "chanel_category_id": 8,
+          "title": "Quảng Bình",
+          "desc": "",
+          "image": "https://s19.postimg.org/bprrj7sab/quangbinh.png",
+          "url": []
+        },
+        {
+          "id": 37,
+          "chanel_category_id": 8,
+          "title": "Quảng Nam",
+          "desc": "",
+          "image": "https://s19.postimg.org/lblbzijg3/quangnam.png",
+          "url": []
+        },
+        {
+          "id": 38,
+          "chanel_category_id": 8,
+          "title": "Quảng Ninh 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/cultoler7/quangninh1.png",
+          "url": []
+        },
+        {
+          "id": 39,
+          "chanel_category_id": 8,
+          "title": "Quảng Ninh 3",
+          "desc": "",
+          "image": "https://s19.postimg.org/nvgytm703/quangninh3.png",
+          "url": []
+        },
+        {
+          "id": 40,
+          "chanel_category_id": 8,
+          "title": "Sóc Trăng 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/xezuek99v/soctrang.png",
+          "url": []
+        },
+        {
+          "id": 41,
+          "chanel_category_id": 8,
+          "title": "Sóc Trăng 3",
+          "desc": "",
+          "image": "https://s19.postimg.org/3ocpssoab/soctrang3.png",
+          "url": []
+        },
+        {
+          "id": 42,
+          "chanel_category_id": 8,
+          "title": "Tây Ninh",
+          "desc": "",
+          "image": "https://s19.postimg.org/q44c2fsvn/tayninh.png",
+          "url": []
+        },
+        {
+          "id": 43,
+          "chanel_category_id": 8,
+          "title": "Thái Bình",
+          "desc": "",
+          "image": "https://s19.postimg.org/l6qrhbqwj/thaibinh.png",
+          "url": []
+        },
+        {
+          "id": 44,
+          "chanel_category_id": 8,
+          "title": "Thái Nguyên",
+          "desc": "",
+          "image": "https://s19.postimg.org/6otk9bzlf/thainguyen.png",
+          "url": []
+        },
+        {
+          "id": 45,
+          "chanel_category_id": 8,
+          "title": "Thanh Hoá",
+          "desc": "",
+          "image": "https://s19.postimg.org/5ntbk7ilv/thanhhoa.png",
+          "url": []
+        },
+        {
+          "id": 46,
+          "chanel_category_id": 8,
+          "title": "Tiền Giang",
+          "desc": "",
+          "image": "https://s19.postimg.org/g3436v56b/tiengiang.png",
+          "url": []
+        },
+        {
+          "id": 47,
+          "chanel_category_id": 8,
+          "title": "Cần Thơ",
+          "desc": "",
+          "image": "https://s19.postimg.org/jp9wjibjn/tpcantho.png",
+          "url": []
+        },
+        {
+          "id": 48,
+          "chanel_category_id": 8,
+          "title": "Trà Vinh",
+          "desc": "",
+          "image": "https://s19.postimg.org/p1yqxmzg3/travinh.png",
+          "url": []
+        },
+        {
+          "id": 49,
+          "chanel_category_id": 8,
+          "title": "Tuyên Quang",
+          "desc": "",
+          "image": "https://s19.postimg.org/colwqq9rn/tuyenquang.png",
+          "url": []
+        },
+        {
+          "id": 50,
+          "chanel_category_id": 8,
+          "title": "Vĩnh Phúc",
+          "desc": "",
+          "image": "https://s19.postimg.org/7wgot14hf/vinhphuc.png",
+          "url": []
+        },
+        {
+          "id": 51,
+          "chanel_category_id": 8,
+          "title": "An Giang 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/3pqsgkyk3/angiang1.png",
+          "url": []
+        },
+        {
+          "id": 52,
+          "chanel_category_id": 8,
+          "title": "An Giang 2",
+          "desc": "",
+          "image": "https://s19.postimg.org/xixsp6n77/angiang2.png",
+          "url": []
+        },
+        {
+          "id": 53,
+          "chanel_category_id": 8,
+          "title": "Bắc Giang",
+          "desc": "",
+          "image": "https://s19.postimg.org/4kdc2m6er/bacgiang.png",
+          "url": []
+        },
+        {
+          "id": 54,
+          "chanel_category_id": 8,
+          "title": "Bà Rịa Vũng Tàu",
+          "desc": "",
+          "image": "https://s19.postimg.org/cpdxkjz03/vungtau.png",
+          "url": []
+        },
+        {
+          "id": 55,
+          "chanel_category_id": 8,
+          "title": "Bến Tre",
+          "desc": "",
+          "image": "https://s19.postimg.org/d5b97j5yr/bentre.png",
+          "url": []
+        },
+        {
+          "id": 56,
+          "chanel_category_id": 8,
+          "title": "Bình Dương 1",
+          "desc": "",
+          "image": "https://s19.postimg.org/dxdx6qa5v/binhduong1.png",
+          "url": []
+        },
+        {
+          "id": 57,
+          "chanel_category_id": 8,
+          "title": "Bình Dương 2",
+          "desc": "",
+          "image": "https://s19.postimg.org/5geevt5gz/binhduong2.png",
+          "url": []
+        },
+        {
+          "id": 58,
+          "chanel_category_id": 8,
+          "title": "Bình Dương 3",
+          "desc": "",
+          "image": "https://s19.postimg.org/pp1shj4s3/binhduong3.png",
+          "url": []
+        },
+        {
+          "id": 59,
+          "chanel_category_id": 8,
+          "title": "Bình Dương 4",
+          "desc": "",
+          "image": "https://s19.postimg.org/92k88gbub/binhduong4.png",
+          "url": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Kênh Radio",
+      "visible": 1,
+      "chanels": [
+        {
+          "id": 1,
+          "chanel_category_id": 9,
+          "title": "VOV TV",
+          "desc": "",
+          "image": "https://s19.postimg.org/xo6lvz0tv/vovtv.png",
+          "url": []
+        },
+        {
+          "id": 2,
+          "chanel_category_id": 9,
+          "title": "VOV1",
+          "desc": "",
+          "image": "https://s19.postimg.org/7kz8g9o1f/vov1.png",
+          "url": []
+        },
+        {
+          "id": 3,
+          "chanel_category_id": 9,
+          "title": "VOV2",
+          "desc": "",
+          "image": "https://s19.postimg.org/xhswsvroz/vov2.png",
+          "url": []
+        },
+        {
+          "id": 4,
+          "chanel_category_id": 9,
+          "title": "VOV3",
+          "desc": "",
+          "image": "https://s19.postimg.org/v1r3f19mb/vov3.png",
+          "url": []
+        },
+        {
+          "id": 5,
+          "chanel_category_id": 9,
+          "title": "VOV5",
+          "desc": "",
+          "image": "https://s19.postimg.org/v3118gbg3/vov5.png",
+          "url": []
+        },
+        {
+          "id": 6,
+          "chanel_category_id": 9,
+          "title": "VOV GT TPHCM",
+          "desc": "",
+          "image": "https://s19.postimg.org/8sd68he5v/vov-gthcm.png",
+          "url": []
+        },
+        {
+          "id": 7,
+          "chanel_category_id": 9,
+          "title": "VOV GTHN",
+          "desc": "",
+          "image": "https://s19.postimg.org/47qztjugj/vov-gthn.png",
+          "url": []
+        }
+      ]
+    }
+  ]
+}

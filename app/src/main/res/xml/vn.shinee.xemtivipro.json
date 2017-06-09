@@ -1,0 +1,46 @@
+{
+  "Ads" : {
+    "delay" : 7,
+    "forcepopup" : true,
+    "ids" : {
+      "admob" : {
+        "banner" : "ca-app-pub-3310732296129502/5664251878",
+        "native" : "",
+        "popup" : "ca-app-pub-3310732296129502/8617718273"
+      },
+      "facebook" : {
+        "banner" : "",
+        "native" : "",
+        "popup" : ""
+      },
+      "startapp" : "207389433"
+    },
+    "numClick" : 10,
+    "timeafterinstall" : 48,
+    "timepopupshow" : 6,
+    "types" : {
+      "banner" : 2,
+      "popup" : {
+        "changenet" : 0,
+        "lick" : 2,
+        "closeapp" : 2,
+        "lockscreen" : 0,
+        "openapp" : 2
+      }
+    }
+  },
+  "App" : {
+    "code" : 20,
+    "force" : true,
+    "link" : "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/res/xml/21.apk"
+  },
+  "androidKey" : "AIzaSyDLKSMnl3wgSxM9wh0YGcJv_-r9ZVWqRGU",
+  "enableApi" : true,
+  "filterCountry" : "^(VN|JP|KR|MX|TH|ZW|ZM|BR|CA|CN|KH|LA|HK|TW|MY|RU|BY|IT|GB|AU)$",
+  "info" : "<b>GIỚI THIỆU:</b> <p>  XemTivi+ là chương trình xem tivi online, bóng đá và các kênh giải trí khác.</p><p>  Với XemTivi+ bạn không cần phải sở hữu tivi cũng như đăng kí các gói xem bóng đá, các gói truyền hình cap mà bạn đã có trong tay hơn 150 kênh truyền hình trong nước cũng như ngoài nước.</p><p>  Đồng thời bạn có thể xem các trận bóng đá gần nhất (live) hoặc xem các video hightlight đã qua, chúng được cập nhật liên tục theo giờ.</p><p>  Bạn cũng có thể xem lịch tivi cũng như bóng đá với ứng dụng này. Thật tiện dụng phải không. Chúc bạn có những phút giây vui vẻ với ứng dụng.</p>",
+  "keyData" : "12322789ghhjkabc",
+  "linkTivi" : "http://api.rysapk.com/bdtvios/datanew2.php?v=9",
+  "linkBongda" : "http://api.rysapk.com/bdtvios/tructiepvn.php",
+  "linkHL" : "http://apps.crackgame.net/bongda/datavideo.php",
+  "timeAfterBuild" : 0
+}
