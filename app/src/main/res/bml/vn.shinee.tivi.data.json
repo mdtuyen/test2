@@ -24,6 +24,14 @@
             {
               "name": "Server 3",
               "link": "http://m.tivi8k.net/vtv1-3.php"
+            },
+            {
+              "name": "Server 4",
+              "link": "http://m.tivi8k.net/vtv1-4.php"
+            },
+            {
+              "name": "Server 5",
+              "link": "http://m.tivi8k.net/vtv1-7.php"
             }
           ]
         },
@@ -41,6 +49,10 @@
             {
               "name": "Server 2",
               "link": "http://m.tivi8k.net/vtv1hd-3.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/vtv1hd-4.php"
             }
           ]
         },
@@ -54,6 +66,18 @@
             {
               "name": "Server 1",
               "link": "http://m.tivi8k.net/vtv2.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv2-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/vtv2-3.php"
+            },
+            {
+              "name": "Server 4",
+              "link": "http://m.tivi8k.net/vtv2-6.php"
             }
           ]
         },
@@ -63,7 +87,24 @@
           "title": "VTV3",
           "desc": "",
           "image": "https://s19.postimg.org/6tat5o4xf/vtv3.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv3.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv3-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/vtv3-4.php"
+            },
+            {
+              "name": "Server 4",
+              "link": "http://m.tivi8k.net/vtv3-6.php"
+            }
+          ]
         },
         {
           "id": 5,
@@ -71,7 +112,24 @@
           "title": "VTV3HD",
           "desc": "",
           "image": "https://s19.postimg.org/5fj6ad5o3/vtv3hd.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv3hd.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv3hd-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/vtv3hd-3.php"
+            },
+            {
+              "name": "Server 4",
+              "link": "http://m.tivi8k.net/vtv3hd-4.php"
+            }
+          ]
         },
         {
           "id": 6,
@@ -79,7 +137,16 @@
           "title": "VTV4",
           "desc": "",
           "image": "https://s19.postimg.org/tkjvs2pyr/vtv4.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv4.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv4-2.php"
+            }
+          ]
         },
         {
           "id": 7,
@@ -87,7 +154,16 @@
           "title": "VTV5",
           "desc": "",
           "image": "https://s19.postimg.org/on6b6ynzn/vtv5.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv5.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv5-2.php"
+            }
+          ]
         },
         {
           "id": 8,
@@ -95,7 +171,16 @@
           "title": "VTV6",
           "desc": "",
           "image": "https://s19.postimg.org/p17n6k837/vtv6.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv6.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv6-2.php"
+            }
+          ]
         },
         {
           "id": 9,
@@ -103,7 +188,16 @@
           "title": "VTV6HD",
           "desc": "",
           "image": "https://s19.postimg.org/gwzj1tlo3/vtv6hd.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv6hd.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv6hd-2.php"
+            }
+          ]
         },
         {
           "id": 10,
@@ -111,7 +205,16 @@
           "title": "VTV7",
           "desc": "",
           "image": "https://s19.postimg.org/u2f17xfjn/vtv7.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv7.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv7-2.php"
+            }
+          ]
         },
         {
           "id": 11,
@@ -119,7 +222,12 @@
           "title": "VTV8",
           "desc": "",
           "image": "https://s19.postimg.org/8u1cqi12r/vtv8.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv8.php"
+            }
+          ]
         },
         {
           "id": 12,
@@ -127,7 +235,16 @@
           "title": "VTV9",
           "desc": "",
           "image": "https://s19.postimg.org/i384eczcj/vtv9.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtv9.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtv9-2.php"
+            }
+          ]
         },
         {
           "id": 13,
@@ -166,7 +283,12 @@
           "title": "VTC1",
           "desc": "",
           "image": "https://s19.postimg.org/97thym6er/vtc1.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc1.php"
+            }
+          ]
         },
         {
           "id": 2,
@@ -174,7 +296,8 @@
           "title": "VTC2",
           "desc": "",
           "image": "https://s19.postimg.org/fo2gopeyb/vtc2.png",
-          "url": []
+          "url": [
+          ]
         },
         {
           "id": 3,
@@ -182,7 +305,16 @@
           "title": "VTC3",
           "desc": "",
           "image": "https://s19.postimg.org/53sj64agj/vtc3.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc3.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtc3-6.php"
+            }
+          ]
         },
         {
           "id": 4,
@@ -190,7 +322,16 @@
           "title": "VTC4",
           "desc": "",
           "image": "https://s19.postimg.org/69wj4wyr7/vtc4.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc4.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtc4-2.php"
+            }
+          ]
         },
         {
           "id": 5,
@@ -198,7 +339,16 @@
           "title": "VTC5",
           "desc": "",
           "image": "https://s19.postimg.org/b9tzcv4dv/vtc5.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc5.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtc5-3.php"
+            }
+          ]
         },
         {
           "id": 6,
@@ -206,15 +356,45 @@
           "title": "VTC6",
           "desc": "",
           "image": "https://s19.postimg.org/wxixnb4s3/vtc6.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc6-2.php"
+            }
+          ]
         },
         {
           "id": 7,
           "chanel_category_id": 2,
-          "title": "VTC7",
+          "title": "VTC7-Today TV",
           "desc": "",
           "image": "https://s19.postimg.org/mov1v8643/vtc7.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc7.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtc7-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/vtc7-3.php"
+            },
+            {
+              "name": "Server 4",
+              "link": "http://m.tivi8k.net/vtc7-4.php"
+            },
+            {
+              "name": "Server 5",
+              "link": "http://m.tivi8k.net/vtc7-6.php"
+            },
+            {
+              "name": "Server 6",
+              "link": "http://m.tivi8k.net/vtc7-7.php"
+            }
+          ]
         },
         {
           "id": 8,
@@ -222,7 +402,12 @@
           "title": "VTC8",
           "desc": "",
           "image": "https://s19.postimg.org/74no4ovzn/vtc8.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc8-2.php"
+            }
+          ]
         },
         {
           "id": 9,
@@ -230,7 +415,32 @@
           "title": "VTC9",
           "desc": "",
           "image": "https://s19.postimg.org/vz75yrgtv/vtc9.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc9.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtc9-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/vtc9-3.php"
+            },
+            {
+              "name": "Server 4",
+              "link": "http://m.tivi8k.net/vtc9-4.php"
+            },
+            {
+              "name": "Server 5",
+              "link": "http://m.tivi8k.net/vtc9-5.php"
+            },
+            {
+              "name": "Server 6",
+              "link": "http://m.tivi8k.net/vtc9-6.php"
+            }
+          ]
         },
         {
           "id": 10,
@@ -238,7 +448,16 @@
           "title": "VTC10",
           "desc": "",
           "image": "https://s19.postimg.org/9brwsm19v/vtc10.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc10.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtc10-2.php"
+            }
+          ]
         },
         {
           "id": 11,
@@ -246,7 +465,16 @@
           "title": "VTC11",
           "desc": "",
           "image": "https://s19.postimg.org/w1r1llkhf/vtc11.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc11.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtc11-4.php"
+            }
+          ]
         },
         {
           "id": 12,
@@ -254,7 +482,9 @@
           "title": "VTC12",
           "desc": "",
           "image": "https://s19.postimg.org/a3ukrt5gz/vtc12.png",
-          "url": []
+          "url": [
+
+          ]
         },
         {
           "id": 13,
@@ -262,7 +492,16 @@
           "title": "VTC13",
           "desc": "",
           "image": "https://s19.postimg.org/tzqk7cmib/vtc13.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc13-2.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtc13-3.php"
+            }
+          ]
         },
         {
           "id": 14,
@@ -270,7 +509,16 @@
           "title": "VTC14",
           "desc": "",
           "image": "https://s19.postimg.org/ocu79vjzn/vtc14.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc14.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtc14-2.php"
+            }
+          ]
         },
         {
           "id": 15,
@@ -278,7 +526,12 @@
           "title": "VTC3HD",
           "desc": "",
           "image": "https://s19.postimg.org/e1d93h2wj/vtc-3hd.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/vtc3.php"
+            }
+          ]
         },
         {
           "id": 16,
@@ -286,7 +539,20 @@
           "title": "VTC16",
           "desc": "",
           "image": "https://s19.postimg.org/etkigewhf/vtc16.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/vtc16.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/vtc16-3.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/vtc16-4.php"
+            }
+          ]
         },
         {
           "id": 17,
@@ -294,7 +560,9 @@
           "title": "VTC HD1",
           "desc": "",
           "image": "https://s19.postimg.org/z4n6b8a2b/vtc1hd.png",
-          "url": []
+          "url": [
+
+          ]
         },
         {
           "id": 18,
@@ -318,7 +586,12 @@
           "title": "ITV HD",
           "desc": "",
           "image": "https://s19.postimg.org/ini3jxm9f/itvhd.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/itvhd.php"
+            }
+          ]
         }
       ]
     },
@@ -333,7 +606,8 @@
           "title": "SCTV1",
           "desc": "",
           "image": "https://s19.postimg.org/ec7a05jhv/sctv1.png",
-          "url": []
+          "url": [
+          ]
         },
         {
           "id": 2,
@@ -341,7 +615,16 @@
           "title": "SCTV2",
           "desc": "",
           "image": "https://s19.postimg.org/jow4ea7eb/sctv2.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/sctv2.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/sctv2-2.php"
+            }
+          ]
         },
         {
           "id": 3,
@@ -349,7 +632,12 @@
           "title": "SCTV3",
           "desc": "",
           "image": "https://s19.postimg.org/hllp6m7lf/sctv3.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/sctv3.php"
+            }
+          ]
         },
         {
           "id": 4,
@@ -357,7 +645,12 @@
           "title": "SCTV4",
           "desc": "",
           "image": "https://s19.postimg.org/hzn167roz/sctv4.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/sctv4.php"
+            }
+          ]
         },
         {
           "id": 5,
@@ -365,7 +658,8 @@
           "title": "SCTV5",
           "desc": "",
           "image": "https://s19.postimg.org/td9khf27n/sctv5.png",
-          "url": []
+          "url": [
+          ]
         },
         {
           "id": 6,
@@ -381,7 +675,9 @@
           "title": "SCTV7",
           "desc": "",
           "image": "https://s19.postimg.org/6ehgc8vlf/sctv7.png",
-          "url": []
+          "url": [
+
+          ]
         },
         {
           "id": 8,
@@ -389,7 +685,8 @@
           "title": "SCTV8",
           "desc": "",
           "image": "https://s19.postimg.org/hfclh9nub/sctv8.png",
-          "url": []
+          "url": [
+          ]
         },
         {
           "id": 9,
@@ -413,7 +710,12 @@
           "title": "SCTV11",
           "desc": "",
           "image": "https://s19.postimg.org/4rs8r0jjn/sctv11.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/sctv11.php"
+            }
+          ]
         },
         {
           "id": 12,
@@ -445,7 +747,16 @@
           "title": "SCTV15",
           "desc": "",
           "image": "https://s19.postimg.org/t0mroz9bn/sctv15.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/sctv15.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/sctv15-3.php"
+            }
+          ]
         },
         {
           "id": 16,
@@ -461,7 +772,20 @@
           "title": "SCTV17",
           "desc": "",
           "image": "https://s19.postimg.org/jirm2od0z/sctv17.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/sctv17.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/sctv17-2.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/sctv17-3.php"
+            }
+          ]
         },
         {
           "id": 18,
@@ -484,7 +808,24 @@
           "title": "HTV1",
           "desc": "",
           "image": "https://s19.postimg.org/hl3bnne2b/htv1.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv1.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/htv1-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/htv1-3.php"
+            },
+            {
+              "name": "Server 4",
+              "link": "http://m.tivi8k.net/htv1-4.php"
+            }
+          ]
         },
         {
           "id": 2,
@@ -492,7 +833,20 @@
           "title": "HTV2",
           "desc": "",
           "image": "https://s19.postimg.org/rwfogb5rn/htv2.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv2.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/htv2-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/htv2-4.php"
+            }
+          ]
         },
         {
           "id": 3,
@@ -500,7 +854,16 @@
           "title": "HTV3",
           "desc": "",
           "image": "https://s19.postimg.org/havt4azg3/htv3.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv3.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/htv3-2.php"
+            }
+          ]
         },
         {
           "id": 4,
@@ -508,7 +871,20 @@
           "title": "HTV4",
           "desc": "",
           "image": "https://s19.postimg.org/ryzk359f7/htv4.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv4.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/htv4-3.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/htv4-4.php"
+            }
+          ]
         },
         {
           "id": 5,
@@ -516,7 +892,24 @@
           "title": "HTV7",
           "desc": "",
           "image": "https://s19.postimg.org/w9itch3w3/htv7.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv7.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/htv7-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/htv7-3.php"
+            },
+            {
+              "name": "Server 4",
+              "link": "http://m.tivi8k.net/htv7-5.php"
+            }
+          ]
         },
         {
           "id": 6,
@@ -524,7 +917,9 @@
           "title": "HTV7HD",
           "desc": "",
           "image": "https://s19.postimg.org/6f90mp3w3/htv7hd.png",
-          "url": []
+          "url": [
+
+          ]
         },
         {
           "id": 7,
@@ -532,7 +927,24 @@
           "title": "HTV9",
           "desc": "",
           "image": "https://s19.postimg.org/ssgr9i4tv/htv9.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv9.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/htv9-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/htv9-3.php"
+            },
+            {
+              "name": "Server 4",
+              "link": "http://m.tivi8k.net/htv9-4.php"
+            }
+          ]
         },
         {
           "id": 8,
@@ -548,7 +960,16 @@
           "title": "HTV The thao",
           "desc": "",
           "image": "https://s19.postimg.org/r37o1fp4j/htvthethao.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv-thethao.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/htv-thethao-2.php"
+            }
+          ]
         },
         {
           "id": 10,
@@ -556,7 +977,12 @@
           "title": "HTV Ca nhac",
           "desc": "",
           "image": "https://s19.postimg.org/sfyjut1bn/nhac.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv-nhac.php"
+            }
+          ]
         },
         {
           "id": 11,
@@ -564,7 +990,12 @@
           "title": "HTV Phim truyen",
           "desc": "",
           "image": "https://s19.postimg.org/3rsr3tpmb/phim.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv-phim.php"
+            }
+          ]
         },
         {
           "id": 12,
@@ -580,7 +1011,12 @@
           "title": "HTV Phu nu",
           "desc": "",
           "image": "https://s19.postimg.org/eh6fw31f7/phunu.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv-phunu.php"
+            }
+          ]
         },
         {
           "id": 14,
@@ -588,7 +1024,12 @@
           "title": "HTV Thuan Viet",
           "desc": "",
           "image": "https://s19.postimg.org/nukt5f9bn/thuanviethd.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/htv-thuanviet.php"
+            }
+          ]
         },
         {
           "id": 15,
@@ -604,7 +1045,12 @@
           "title": "HTV Gia dinh",
           "desc": "",
           "image": "https://s19.postimg.org/67c6ype5v/giadinh.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/htv-giadinh.php"
+            }
+          ]
         },
         {
           "id": 17,
@@ -612,7 +1058,12 @@
           "title": "MTV Viet",
           "desc": "",
           "image": "https://s19.postimg.org/46zfj3m5v/mtvviet.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/mtvviet.php"
+            }
+          ]
         }
       ]
     },
@@ -627,7 +1078,12 @@
           "title": "VTVCab1-Giai tri Viet",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-WS3WoSvMqS4/VpyiiN95hRI/AAAAAAAAB-o/dKkLfIDOq34/s128-Ic42/vtvcab1.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi12h.net/giaitritv.php"
+            }
+          ]
         },
         {
           "id": 2,
@@ -635,7 +1091,16 @@
           "title": "VTVCab2-Phim Viet",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-R0R-gKFogWo/VpyijNgLBAI/AAAAAAAAB-4/XFNqhqsHNA4/s128-Ic42/vtvcab2.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/phimviet.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi12h.net/phimviet.php"
+            }
+          ]
         },
         {
           "id": 3,
@@ -643,7 +1108,20 @@
           "title": "VTVCab3-Thể thao TV",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-5PwTm_f3sAc/VpyijWp6DvI/AAAAAAAACBY/_uHdJK7nrlc/s128-Ic42/vtvcab3.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/thethaotv.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/thethaotv-2.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/thethaotv-2.php"
+            }
+          ]
         },
         {
           "id": 4,
@@ -651,7 +1129,12 @@
           "title": "VTVCab4",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-K5upzHXjLFQ/VpyijREyfXI/AAAAAAAAB_M/pGrAbtIrR9Y/s128-Ic42/vtvcab4.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/vctv17.php"
+            }
+          ]
         },
         {
           "id": 5,
@@ -659,7 +1142,12 @@
           "title": "VTVCab5 E-Chanel",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-OdFIS9_rcfY/Vpyij0813_I/AAAAAAAACBc/pgdEX-fP4JE/s128-Ic42/vtvcab5.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/echannel-3.php"
+            }
+          ]
         },
         {
           "id": 6,
@@ -667,7 +1155,12 @@
           "title": "VTVCab6",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-o1PrOv_5t50/Vpyij41mLBI/AAAAAAAACBg/-qKxyD4OdF0/s128-Ic42/vtvcab6.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/vctv6.php"
+            }
+          ]
         },
         {
           "id": 7,
@@ -675,7 +1168,12 @@
           "title": "VTVCab7-Dramas",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-Ii1S8W0S4fQ/VpyikKn2zKI/AAAAAAAAB_c/_G7Yz0DU2vI/s128-Ic42/vtvcab7.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/drama.php"
+            }
+          ]
         },
         {
           "id": 8,
@@ -683,7 +1181,12 @@
           "title": "VTVCab8-Bibi",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-qKYa9-08d3k/VpyikPDboxI/AAAAAAAACAU/5ax4M9T_8Dg/s128-Ic42/vtvcab8.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/bibi.php"
+            }
+          ]
         },
         {
           "id": 9,
@@ -691,7 +1194,9 @@
           "title": "VTVCab9-HayTV",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-5_y8y1dqC94/VpyikUirclI/AAAAAAAAB_o/SulM3_v5P9Y/s128-Ic42/vtvcab9.png",
-          "url": []
+          "url": [
+
+          ]
         },
         {
           "id": 10,
@@ -699,7 +1204,12 @@
           "title": "VTVCab10-O2TV",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-mfiCF9-B_RA/VpyiiaA8aJI/AAAAAAAAB-g/bVjvh2P_g90/s128-Ic42/vtvcab10.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/02.php"
+            }
+          ]
         },
         {
           "id": 12,
@@ -707,7 +1217,12 @@
           "title": "VTVCab12-Style",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-3sWLPllPBsg/VpyiiorD_BI/AAAAAAAACBU/PptcSeCKRXI/s128-Ic42/vtvcab12.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/style.php"
+            }
+          ]
         },
         {
           "id": 15,
@@ -715,7 +1230,12 @@
           "title": "VTVCab15",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-wyrZX3MzkvU/VpyiiimhdqI/AAAAAAAACBQ/BMJTJ1H0948/s128-Ic42/vtvcab15.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/invest.php"
+            }
+          ]
         },
         {
           "id": 16,
@@ -723,7 +1243,16 @@
           "title": "VTVCab16",
           "desc": "",
           "image": "https://lh3.googleusercontent.com/-m-tn3qGFzNg/Vpyii7KhHcI/AAAAAAAAB_s/83GCvXJtH_w/s128-Ic42/vtvcab16.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/bongdatv.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/bongdatv-2.php"
+            }
+          ]
         },
         {
           "id": 20,
@@ -746,7 +1275,16 @@
           "title": "K+1",
           "desc": "",
           "image": "https://s19.postimg.org/aoic2lwj7/kplus.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://bd.tivi8k.net/k-1.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://bd.tivi8k.net/k-2.php"
+            }
+          ]
         },
         {
           "id": 2,
@@ -754,7 +1292,16 @@
           "title": "K+PM",
           "desc": "",
           "image": "https://s19.postimg.org/ygrne4yk3/kpm.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://bd.tivi8k.net/k-1.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://bd.tivi8k.net/k-2.php"
+            }
+          ]
         }
       ]
     },
@@ -769,7 +1316,24 @@
           "title": "HBO",
           "desc": "",
           "image": "https://s19.postimg.org/9d1e2nm5v/hbo1.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/hbo.php"
+            },
+            {
+              "name": "Server 2",
+              "link": "http://m.tivi8k.net/hbo-2.php"
+            },
+            {
+              "name": "Server 3",
+              "link": "http://m.tivi8k.net/hbo-3.php"
+            },
+            {
+              "name": "Server 4",
+              "link": "http://m.tivi8k.net/hbo-5.php"
+            }
+          ]
         },
         {
           "id": 2,
@@ -777,7 +1341,12 @@
           "title": "Disney",
           "desc": "",
           "image": "https://s19.postimg.org/dzyb0h78z/disney.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.tivi8k.net/disney.php"
+            }
+          ]
         },
         {
           "id": 3,
@@ -785,7 +1354,12 @@
           "title": "StarWorld",
           "desc": "",
           "image": "https://s19.postimg.org/e5pg2p1wz/worldhd.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/star-world.php"
+            }
+          ]
         },
         {
           "id": 4,
@@ -793,7 +1367,12 @@
           "title": "Fashion",
           "desc": "",
           "image": "https://s19.postimg.org/407yas8vn/fashion.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/fashion.php"
+            }
+          ]
         },
         {
           "id": 5,
@@ -801,7 +1380,12 @@
           "title": "Cartoon",
           "desc": "",
           "image": "https://s19.postimg.org/60yhvm50z/car-toon.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/carton-cn.php"
+            }
+          ]
         },
         {
           "id": 6,
@@ -809,7 +1393,12 @@
           "title": "Fox Sports",
           "desc": "",
           "image": "https://s19.postimg.org/4e9aadsz7/fox.png",
-          "url": []
+          "url": [
+            {
+              "name": "Server 1",
+              "link": "http://m.xemtvhd.com/carton-cn.php"
+            }
+          ]
         },
         {
           "id": 7,
