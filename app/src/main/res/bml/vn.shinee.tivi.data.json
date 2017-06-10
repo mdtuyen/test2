@@ -265,7 +265,7 @@
               "link": "http://m.tivi8k.net/vtc1.php"
             },
             {
-              "name": "Server 1",
+              "name": "Server 2",
               "link": "http://m.xemtvhd.com/vtc1-2.php"
             }
           ]
@@ -980,11 +980,7 @@
           "url": [
             {
               "name": "Server 1",
-              "link": "http://m.tivi8k.net/thethaotv.php"
-            },
-            {
-              "name": "Server 2",
-              "link": "http://m.tivi8k.net/thethaotv-2.php"
+              "link": "http://m.xemtvhd.com/thethaotv.php"
             },
             {
               "name": "Server 2",
